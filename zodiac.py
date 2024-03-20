@@ -1,7 +1,8 @@
 """
 author: Ivy Huang
 Compares the birthdays of two people to determine whether or not they 
-are compatible based on their zodiac sign
+are compatible based on their zodiac sign. Compatibility depends on
+their elements and whether or not they are a power/danger couple
 """
 
 ##Functions
