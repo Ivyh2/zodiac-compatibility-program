@@ -1,5 +1,5 @@
 """
-Checks that the zodiac compatibility program works as expected 
+Checks that the zodiac compatibility program works as expected by test cases
 """
 
 import unittest #Include the pyUnit unittest framework
